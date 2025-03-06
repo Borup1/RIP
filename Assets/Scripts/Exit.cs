@@ -7,15 +7,33 @@ using Mirror;
 
 public class Exit : MonoBehaviour
 {
-	public void ExitGame()
+	public void Exitapp()
 	{
-#if UNITY_EDITOR
-		Debug.Log("Stopping play mode in editor");
-		UnityEditor.EditorApplication.isPlaying = false; // Stop play mode in editor
-#else
-		Debug.Log("Exiting game");
-		Application.Quit(); // Quit the game in a built application
-#endif
-	}		
+		Application.Quit();
+		Debug.Log("Exit Game");
+	}
+	
+	public void ExitGame()
+	{   
+		SteamLobby.Instance.LeaveLobby(); 
+		// stops host 
+		if (NetworkServer.active && NetworkClient.isConnected)
+		{
+			NetworkManager.singleton.StopHost();
+		}
+		//// stop client if client-only
+		else if (NetworkClient.isConnected)
+		{
+			NetworkManager.singleton.StopClient();
+		}
+		//// stop server if server-only
+		else if (NetworkServer.active)
+		{
+			NetworkManager.singleton.StopServer();
+		}
+	}
+	
 }
+		
+
   
