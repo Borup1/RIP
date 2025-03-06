@@ -9,7 +9,13 @@ public class Exit : MonoBehaviour
 {
 	public void ExitGame()
 	{
-		Application.Quit();
-		Debug.Log("Exit Game");
+#if UNITY_EDITOR
+		Debug.Log("Stopping play mode in editor");
+		UnityEditor.EditorApplication.isPlaying = false; // Stop play mode in editor
+#else
+		Debug.Log("Exiting game");
+		Application.Quit(); // Quit the game in a built application
+#endif
 	}		
 }
+  
