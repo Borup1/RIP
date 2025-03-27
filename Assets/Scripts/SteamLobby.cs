@@ -24,12 +24,7 @@ public class SteamLobby : MonoBehaviour
     public ulong CurrentLobbyID;
     private const string HostAddressKey = "HostAddress";
     private CustomNetworkManager manager;
-
-    //Gameobject
-	// public GameObject HostButton;
-	// public Text LobbyNameText;
-	 
-
+   	 
     private void Start()
     {
         if (!SteamManager.Initialized) { return; }

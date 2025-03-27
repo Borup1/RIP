@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\assets\\scripts\\steamlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\steamlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|c:\\users\\jesper borup\\desktop\\unity\\2021\\rip\\assets\\scripts\\friendlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\friendlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,8 @@
       "RelativeMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customnetworkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\assets\\scripts\\steamlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\steamlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\assets\\scripts\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DFA3AD5-94CA-F6AF-6A47-EE4CF693C651}|Mirror.csproj|C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\assets\\mirror\\runtime\\transport\\fizzysteamworks\\scripts\\steamworks.net\\steammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DFA3AD5-94CA-F6AF-6A47-EE4CF693C651}|Mirror.csproj|solutionrelative:assets\\mirror\\runtime\\transport\\fizzysteamworks\\scripts\\steamworks.net\\steammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3A8A7DB-A784-DE44-FBF9-86A1C5F6BE4E}|Assembly-CSharp.csproj|C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\assets\\scripts\\playerobjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,15 +62,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Friendlist.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\Friendlist.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Friendlist.cs",
@@ -87,19 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SteamManager.cs",
-              "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Mirror\\Runtime\\Transport\\FizzySteamworks\\Scripts\\Steamworks.NET\\SteamManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Mirror\\Runtime\\Transport\\FizzySteamworks\\Scripts\\Steamworks.NET\\SteamManager.cs",
-              "ToolTip": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Mirror\\Runtime\\Transport\\FizzySteamworks\\Scripts\\Steamworks.NET\\SteamManager.cs",
-              "RelativeToolTip": "Assets\\Mirror\\Runtime\\Transport\\FizzySteamworks\\Scripts\\Steamworks.NET\\SteamManager.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAcwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T13:45:08.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Logo.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scenes\\Logo.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Logo.cs",
@@ -111,19 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SteamLobby.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\SteamLobby.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SteamLobby.cs",
               "ToolTip": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\SteamLobby.cs",
               "RelativeToolTip": "Assets\\Scripts\\SteamLobby.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAuwHcAAABFAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T18:58:05.101Z"
+              "WhenOpened": "2024-03-19T18:58:05.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PlayerListItem.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\PlayerListItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerListItem.cs",
@@ -135,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PlayerObjectController.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\PlayerObjectController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerObjectController.cs",
@@ -147,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "MapController.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\MapController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
@@ -159,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomNetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\CustomNetworkManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CustomNetworkManager.cs",
@@ -171,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Exit.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\Exit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exit.cs",
@@ -195,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "PlayerMovementController.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\PlayerMovementController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovementController.cs",
@@ -207,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "LobbyController.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\LobbyController.cs",
               "RelativeDocumentMoniker": "Assets\\LobbyController.cs",
@@ -219,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "SteamLobby.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\SteamLobby.cs",
               "RelativeDocumentMoniker": "Assets\\SteamLobby.cs",
@@ -231,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "LobbyDataEntry.cs",
               "DocumentMoniker": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\LobbyDataEntry.cs",
               "RelativeDocumentMoniker": "Assets\\LobbyDataEntry.cs",

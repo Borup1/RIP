@@ -66,19 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -88,7 +80,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Friendlist.cs",
               "ToolTip": "C:\\Users\\Jesper Borup\\Desktop\\unity\\2021\\RIP\\Assets\\Scripts\\Friendlist.cs",
               "RelativeToolTip": "Assets\\Scripts\\Friendlist.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwDsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T09:55:38.442Z",
               "EditorCaption": ""
@@ -175,8 +167,7 @@
               "RelativeToolTip": "Assets\\Scripts\\CustomNetworkManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-10-10T10:31:35.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-10-10T10:31:35.775Z"
             },
             {
               "$type": "Document",
