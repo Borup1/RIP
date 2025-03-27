@@ -144,7 +144,6 @@
 -r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll"
 -r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll"
 -r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll"
--r:"Assets/SuperEditor/Editor/SuperEditor.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.32f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.32f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.32f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
